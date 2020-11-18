@@ -23,10 +23,12 @@ Design of Embedded System for a Handheld Multispectral Imaging System using Rasp
 
 ## Education
 JULY  2012 - MAY 2016  
-### PSG College of Technology, - Bachelor of Electrical and Electronics Engineering, Grade : 7.73/10
+### PSG College of Technology, - Bachelor of Electrical and Electronics Engineering
+Grade : 7.73/10  
 
 ## Projects
-inotify-cpp - A Linux file event notifier application written C++, https://github.com/Wish-Labs/inotify-cpp
+### inotify-cpp
+A Linux file event notifier application written C++, https://github.com/Wish-Labs/inotify-cpp  
 
 ## Skills
 ### Languages
