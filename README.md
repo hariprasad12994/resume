@@ -29,10 +29,10 @@ Grade : 7.73/10
 
 ## Projects
 ### rosetree [In Progress]
-Rosetree is the C++ implementation for the data structure of the same name, [https://github.com/Wish-Labs/inotify-cpp](https://github.com/hariprasad12994/rosetree)  
+Rosetree is the C++ implementation for the data structure of the same name, https://github.com/hariprasad12994/rosetree
 
 ### bluepill [In Progress]
-HAL library for the STM32F103 microcontroller board, also known as Bluepill, https://github.com/hariprasad12994/stm32f103
+HAL library for the STM32F103 microcontroller board, which is commonly known as Bluepill, https://github.com/hariprasad12994/stm32f103
 
 ### inotify-cpp [On Hold]
 A Linux file event notifier application written C++, https://github.com/Wish-Labs/inotify-cpp  
